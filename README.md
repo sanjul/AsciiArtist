@@ -32,5 +32,8 @@ One of my old VB6 experiments...
                                                 
                                                 
 ```
-                                                                                                               
-                                                            
+### Screenshot - Conversion Mode
+![Screenshot 01](Screenshots/ConversionMode.png "Conversion Mode")
+
+### Screenshot - Drawing Mode
+![Screenshot 02](Screenshots/DrawingPad.png "Drawing Mode")
